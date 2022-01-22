@@ -12,7 +12,7 @@ from datetime import datetime
 import time
 
 # Discord information
-url = "https://discord.com/api/webhooks/934498898188316733/ZIMG3EtBM0zUCKnPobmfh_Xl_RxDIDY1Er1kMjwU901L6P3AQsmhcQV16Llpn_ITkK0U"
+url = "YOUR WEBHOOK HERE"
 
 #Exchange you're using to scrape data
 exchange = ccxt.bybit({})
